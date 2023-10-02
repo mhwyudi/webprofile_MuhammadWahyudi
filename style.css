@@ -116,7 +116,7 @@ nav ul li a:hover
     height: auto;
     position: absolute;
     left: 80%;
-    top: 25%;
+    top: 10%;
     transform: translate(-50%);
 }
 
